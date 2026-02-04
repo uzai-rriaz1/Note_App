@@ -28,11 +28,18 @@ Click the image above to watch the project in action.
 ### Dashboard
 ![Dashboard](Screenshots/Dashboard.png)
 
+### Profile
+![Profile](Screenshots/Profile.png)
+
 ### Create Note
 ![Create Note](Screenshots/Createnote.png)
 
-### Edit Note
-![Edit Note](Screenshots/Resetpassword.png)
+### Delete Note
+![Delete Note](Screenshots/Resetpassword.png)
+
+### Reset Password
+![Reset Password](Screenshots/ResetPassword.png)
+
 
 ---
 
