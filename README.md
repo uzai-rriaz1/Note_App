@@ -35,7 +35,7 @@ Click the image above to watch the project in action.
 ![Create Note](Screenshots/Createnote.png)
 
 ### Delete Note
-![Delete Note](Screenshots/Resetpassword.png)
+![Delete Note](Screenshots/Deletenote.png)
 
 ### Reset Password
 ![Reset Password](Screenshots/ResetPassword.png)
