@@ -17,7 +17,7 @@ A **full-stack Notes Management Application** built with **MongoDB, Express, Rea
 
 ## 📹 Project Demo
 
-[![Watch the demo](screenshots/demo-thumbnail.png)](https://drive.google.com/file/d/1GvyNMuOINqRv0AM9apjmvbWTUG1NrhtG/view?usp=drive_link)
+[![Watch the demo](screenshots/Dashboard.png)](https://drive.google.com/file/d/1GvyNMuOINqRv0AM9apjmvbWTUG1NrhtG/view?usp=drive_link)
 
 Click the image above to watch the project in action.
 
