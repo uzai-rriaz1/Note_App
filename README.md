@@ -59,14 +59,14 @@ Click the image above to watch the project in action.
    ```bash
    git clone https://github.com/yourusername/notes-app.git ```
 
-1. **Navigate to the backend**
+2. **Navigate to the backend**
    ```cd notes-app/backend
-npm install```
+npm install ```
 
-**Navigate to the frontend**
+3. **Navigate to the frontend**
 
 ```cd ../frontend
-npm install```
+npm install ```
 
 
 Create a .env file in backend
