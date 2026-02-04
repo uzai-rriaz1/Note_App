@@ -26,13 +26,13 @@ Click the image above to watch the project in action.
 ## 🖼 Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ### Create Note
-![Create Note](screenshots/create-note.png)
+![Create Note](Screenshots/Createnote.png)
 
 ### Edit Note
-![Edit Note](screenshots/edit-note.png)
+![Edit Note](Screenshots/Resetpassword.png)
 
 ---
 
