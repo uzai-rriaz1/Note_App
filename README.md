@@ -59,11 +59,9 @@ Click the image above to watch the project in action.
    ```bash
    git clone https://github.com/yourusername/notes-app.git ```
 
-  ** Navigate to the backend **
-
-```cd notes-app/backend
-npm install```
-
+1. **Navigate to the backend**
+   ``````cd notes-app/backend
+npm install ```
 
 **Navigate to the frontend**
 
