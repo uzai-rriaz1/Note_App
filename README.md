@@ -1,0 +1,53 @@
+# Notes Management Application (MERN Stack)
+
+A **full-stack Notes Management Application** built with **MongoDB, Express, React, and Node.js**, allowing users to securely create, edit, and manage personal notes. The application features user authentication, protected routes, and a responsive interface, following clean architecture and best practices.
+
+---
+
+## 🎯 Features
+
+- **User Authentication:** Secure login and registration using JWT tokens.
+- **CRUD Notes:** Create, read, update, and delete notes.
+- **Protected Routes:** Only authenticated users can access their notes.
+- **Responsive Design:** Works seamlessly on mobile, tablet, and desktop devices.
+- **RESTful APIs:** Efficient communication between frontend and backend.
+- **Clean Code & Modular Architecture:** Scalable and maintainable for future enhancements.
+
+---
+
+## 📹 Project Demo
+
+[![Watch the demo](screenshots/demo-thumbnail.png)](https://your-project-video-link.com)
+
+Click the image above to watch the project in action.
+
+---
+
+## 🖼 Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Create Note
+![Create Note](screenshots/create-note.png)
+
+### Edit Note
+![Edit Note](screenshots/edit-note.png)
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** React, Tailwind CSS, React Router
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Authentication:** JWT
+- **Tools:** Postman, Git, VS Code
+
+---
+
+## 🚀 Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/notes-app.git
