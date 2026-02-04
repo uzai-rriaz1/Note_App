@@ -17,7 +17,7 @@ During my 10pearls Internship i Developed A **full-stack Notes Management Applic
 
 ## 📹 Project Demo
 
-[![Watch the demo](Screenshots/Dashboard.png)](https://drive.google.com/file/d/1GvyNMuOINqRv0AM9apjmvbWTUG1NrhtG/view?usp=drive_link)
+[![Watch the demo](Screenshots/Notes App.mp4)](https://drive.google.com/file/d/1GvyNMuOINqRv0AM9apjmvbWTUG1NrhtG/view?usp=drive_link)
 
 Click the image above to watch the project in action.
 
