@@ -50,18 +50,18 @@ Click the image above to watch the project in action.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/notes-app.git
+   git clone https://github.com/yourusername/notes-app.git ```
 
-   Navigate to the backend
+  ** Navigate to the backend **
 
-cd notes-app/backend
-npm install
+```cd notes-app/backend
+npm install```
 
 
-Navigate to the frontend
+**Navigate to the frontend**
 
-cd ../frontend
-npm install
+```cd ../frontend
+npm install```
 
 
 Create a .env file in backend
@@ -76,3 +76,4 @@ Run the application
 Start backend: npm run dev
 
 Start frontend: npm start
+```
