@@ -1,6 +1,6 @@
 # Notes Management Application (MERN Stack)
 
-A **full-stack Notes Management Application** built with **MongoDB, Express, React, and Node.js**, allowing users to securely create, edit, and manage personal notes. The application features user authentication, protected routes, and a responsive interface, following clean architecture and best practices.
+During my 10pearls Internship i Developed A **full-stack Notes Management Application** built with **MongoDB, Express, React, and Node.js**, allowing users to securely create, edit, and manage personal notes. The application features user authentication, Hashed Password Using **bcrypt**, protected routes, and a responsive interface, following clean architecture and best practices.
 
 ---
 
