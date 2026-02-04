@@ -51,3 +51,28 @@ Click the image above to watch the project in action.
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/notes-app.git
+
+   Navigate to the backend
+
+cd notes-app/backend
+npm install
+
+
+Navigate to the frontend
+
+cd ../frontend
+npm install
+
+
+Create a .env file in backend
+
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret
+PORT=5000
+
+
+Run the application
+
+Start backend: npm run dev
+
+Start frontend: npm start
