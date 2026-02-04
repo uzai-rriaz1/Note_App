@@ -56,16 +56,19 @@ Click the image above to watch the project in action.
 ## 🚀 Installation
 
 1. **Clone the repository**
-   ```bash
+   bash
    git clone https://github.com/yourusername/notes-app.git
 
 2. **Navigate to the backend**
-   cd notes-app/backend
-npm install 
 
-3. **Navigate to the frontend**
+   cd notes-app/backend
+   
+   npm install 
+
+4. **Navigate to the frontend**
 
 cd ../frontend
+
 npm install 
 
 
